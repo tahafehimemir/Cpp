@@ -1,0 +1,4 @@
+﻿  Templates2.cpp
+Templates2.obj : error LNK2019: çözümlenmemiş dış sembol "int __cdecl addOne<int>(int)" (??$addOne@H@@YAHH@Z) için main işlevinde başvuruldu
+Templates2.obj : error LNK2019: çözümlenmemiş dış sembol "double __cdecl addOne<double>(double)" (??$addOne@N@@YANN@Z) için main işlevinde başvuruldu
+C:\Users\yazilimstj\Desktop\Taha\Templates2\x64\Debug\Templates2.exe : fatal error LNK1120: 2 çözümlenmemiş dışlar

@@ -1,0 +1,3 @@
+﻿  ImpicitTypeConversion.cpp
+C:\Users\yazilimstj\Desktop\Taha\ImpicitTypeConversion\ImpicitTypeConversion\ImpicitTypeConversion.cpp(34,10): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ImpicitTypeConversion.vcxproj -> C:\Users\yazilimstj\Desktop\Taha\ImpicitTypeConversion\x64\Debug\ImpicitTypeConversion.exe

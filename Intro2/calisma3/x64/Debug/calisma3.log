@@ -1,0 +1,5 @@
+﻿  calisma3.cpp
+C:\Users\yazilimstj\Desktop\Taha\calisma3\calisma3\calisma3.cpp(153,6): error C2143: sözdizimi hatası: ';' eksik ('<<' öncesinde)
+C:\Users\yazilimstj\Desktop\Taha\calisma3\calisma3\calisma3.cpp(153,6): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\yazilimstj\Desktop\Taha\calisma3\calisma3\calisma3.cpp(153,1): error C2371: 'std::cout': yeniden tanımlama; temel türler farklı
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\iostream(40): message : 'std::cout' bildirimine bakın
